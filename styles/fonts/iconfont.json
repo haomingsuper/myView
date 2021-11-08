@@ -1,0 +1,30 @@
+{
+  "id": "2005546",
+  "name": "Travel",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "Travel项目图标",
+  "glyphs": [
+    {
+      "icon_id": "21649092",
+      "name": "爱好",
+      "font_class": "ziyuan25",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1224403",
+      "name": "工作经验",
+      "font_class": "gongzuojingyan",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "24693351",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}
